@@ -1,5 +1,5 @@
 {
-  "name": "initforthe-update-manager",
+  "name": "initforthe-update_manager",
   "version": "0.0.100",
   "author": "Rob Holland, Tom Simnett",
   "licence": "Properietory",
@@ -7,7 +7,7 @@
   "source": "git@git.initforthe.com:initforthe/puppet-update-manager.git",
   "project_page": "(http://git.initforthe.com/initforthe/puppet-update-manager)",
   "issues_url": "(http://git.initforthe.com/initforthe/puppet-update-manager/issues)",
-  "tags": ["initforthe", "update-manager"],
+  "tags": ["initforthe", "update_manager"],
   "operatingsystem_support": [
     {
       "operatingsystem": "Ubuntu",
