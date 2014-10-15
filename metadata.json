@@ -1,12 +1,12 @@
 {
   "name": "initforthe-update_manager",
-  "version": "0.0.100",
-  "author": "Rob Holland, Tom Simnett",
-  "licence": "Properietory",
-  "summary": "Release updates file",
-  "source": "git@git.initforthe.com:initforthe/puppet-update-manager.git",
-  "project_page": "(http://git.initforthe.com/initforthe/puppet-update-manager)",
-  "issues_url": "(http://git.initforthe.com/initforthe/puppet-update-manager/issues)",
+  "version": "1.0.0",
+  "author": "Tom Simnett",
+  "licence": "MIT",
+  "summary": "Release updates file management",
+  "source": "git://github.com/initforthe/puppet-update-manager.git",
+  "project_page": "https://github.com/initforthe/puppet-update-manager",
+  "issues_url": "https://github.com/initforthe/puppet-update-manager/issues",
   "tags": ["initforthe", "update_manager"],
   "operatingsystem_support": [
     {
